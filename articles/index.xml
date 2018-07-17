@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Bad Archaeology</title>
-    <link>bad-archaeology/articles/</link>
+    <link>https://shawngraham.github.io/bad-archaeology/articles/</link>
     <description>Recent content in Articles on Bad Archaeology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="bad-archaeology/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shawngraham.github.io/bad-archaeology/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
