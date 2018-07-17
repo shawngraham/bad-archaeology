@@ -1,5 +1,5 @@
 # Site settings
-baseURL = ""
+baseURL = "https://shawngraham.github.io/bad-archaeology/"
 languageCode = "en-us"
 title = "Bad Archaeology"
 theme = "forty"
