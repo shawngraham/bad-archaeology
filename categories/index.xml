@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bad Archaeology</title>
-    <link>/categories/</link>
+    <link>bad-archaeology/categories/</link>
     <description>Recent content in Categories on Bad Archaeology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="bad-archaeology/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/categories/</link>
+      <link>bad-archaeology/categories/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/categories/</guid>
+      <guid>bad-archaeology/categories/</guid>
       <description></description>
     </item>
     
