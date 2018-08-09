@@ -54,12 +54,8 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Articles"
-      url = "articles"
-
-    [[params.navigation.links]]
       name = "Notes from Shawn"
-      url = "details/shawn"
+      url = "https://github.com/shawngraham/bad-archaeology/wiki"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -68,15 +64,15 @@ disqusShortname = ""
     #    name = "NameOfLink"
     #    url = "UrlOfLink"
 
-    # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "details"
-
     # Button Style 2
     [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+      name = "Student Reports"
+      url = "articles"
+
+      # Button Style 1
+      [[params.navigation.button1]]
+        name = "Get Started"
+        url = "details"
 
 
   # Banner section
@@ -116,6 +112,18 @@ disqusShortname = ""
       subtitle = "Graham & Huffer's SSHRC funded research"
       image = "pic04.jpg"
       url = "details/bonetrade"
+
+    [[params.tiles.showcase]]
+      title = "Student Reports"
+      subtitle = "Weekly summaries of class discussions"
+      image = "pic09.jpg"
+      url = "articles"
+
+    [[params.tiles.showcase]]
+      title = "Group Library"
+      subtitle = "A Zotero.org collection of relevant materials"
+      image = "pic07.jpg"
+      url = "https://www.zotero.org/groups/2213209/hist4805a-bad-archaeology"
 
     # You can make more showcases by copy and pasting the code above
 

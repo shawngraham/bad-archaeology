@@ -2,7 +2,7 @@
 title: "The Bone Trade Project"
 description: "Lorem Etiam Nullam"
 slug: "bonetrade"
-image: pic10.jpg
+image: pic10.png
 keywords: ""
 categories:
     - ""

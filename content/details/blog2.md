@@ -1,6 +1,6 @@
 ---
 title: "Your Research"
-description: "Lorem Etiam Nullam"
+description: "Description of Second Term Research Projects"
 slug: "research"
 image: pic09.jpg
 keywords: ""
@@ -53,3 +53,5 @@ Off the top of my head, I can think of a wide variety of topics worth exploring:
 **You should settle on a general idea for your project by early November; I want this pinned down by the end of November.**
 
 **In the second term we will meet periodically to compare notes, troubleshoot, and workshop what we're working on.**
+
+<small> Header image by user Qinghill [unsplash.com](https://unsplash.com/photos/GMU6ldtMxGQ) </small>

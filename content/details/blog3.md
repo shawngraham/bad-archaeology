@@ -1,6 +1,6 @@
 ---
 title: "Syllabus"
-description: "Policies and Procedures."
+description: "Policies and Procedures"
 slug: "syllabus"
 image: pic08.jpg
 keywords: ""
@@ -93,4 +93,4 @@ You may need special arrangements to meet your academic obligations during the t
 
 If you are already registered with the PMC, contact your PMC coordinator to send the instructor your Letter of Accommodation at the beginning of the term, and no later than two weeks before the first in-class scheduled test or exam requiring accommodation (if applicable). After requesting accommodation from PMC, meet with the instructor to ensure accommodation arrangements are made.Please consult the PMC website for the deadline to request accommodations for the formally-scheduled exam(if applicable)
 
-_Header Image Evan Dennis, Unsplash.com_
+<small> Header Image Evan Dennis, [Unsplash.com](http://unsplash.com) </small>
