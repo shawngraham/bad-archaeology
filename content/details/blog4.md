@@ -80,14 +80,14 @@ You might also want to [explore these topics as they span across 20000 articles 
 **This list subject to change depending on how the class evolves.**
 
 ### September 5, 2018 Getting Started
-> Introductions, discussion of the course syllabus. If this class is 'Bad Archaeology', what constitutes 'Good Archaeology'?
+Introductions, discussion of the course syllabus. If this class is 'Bad Archaeology', what constitutes 'Good Archaeology'?
 
-Greene, Chapter Two; Chapter Six
++ Greene, Chapter Two; Chapter Six
 
 > Digital methods practice: Hypothes.is, digital notetaking, zotero, advantages/disadvantages of an open notebook
 
 ### September 12, 2018 History of archaeology
-> How we got to now
+How we got to now
 
 + Greene, Chapter One; Chapter Three
 + [TrowelBlazers](https://trowelblazers.com/articles/) (Compare with Greene, Bacon)
@@ -121,7 +121,7 @@ Greene, Chapter Two; Chapter Six
 
 + [Trafficking Culture Project](https://traffickingculture.org/) - explore
 + Elkins, The Trade in Fresh Supplies of Ancient Coins: Scale, Organization, and Politics. In Lazrus and Barker
-+ Yates, Donna. []“Lies, Damned Lies, and Archaeologists: Antiquities Trafficking Research as Criminology and the Ethics of Identification.”](https://doi.org/10.23914/ap.v4i2.57).
++ Yates, Donna. [“Lies, Damned Lies, and Archaeologists: Antiquities Trafficking Research as Criminology and the Ethics of Identification.”](https://doi.org/10.23914/ap.v4i2.57).
 
 > Digital methods practice: webscraping, SPARQL and LOD
 
@@ -154,8 +154,9 @@ TV, movies, books, videogames
 + Perry, [Why are heritage interpreters voiceless at the trowel's edge?](https://doi.org/10.1017/aap.2018.21)
 + Lambert and Yates, [Crime, Controversy and the Comments Section: Discussing archaeological looting, trafficking, and the illicit antiquities trade online](http://intarch.ac.uk/journal/issue39/6/index.html)
 + Perry, Shipley, and Osborne, [Digital Media, Power and (In)Equality in Archaeology and Heritage](http://intarch.ac.uk/journal/issue38/perry_index.html)
++ Beisaw, 'Ghost Hunting as Archaeology' in Card & Anderson
 
-> Digital methods practice: topic models; word vectors; projection mapping
+> Digital methods practice: topic models; word vectors; projection mapping. Or maybe we'll do some ghost hunting. Who knows how the day might play out...
 
 ### November 7, 2018 Archaeology in the service of the state
 
@@ -163,7 +164,7 @@ TV, movies, books, videogames
 + Maischberger. [“German Archaeology during the Third Reich, 1933–45: A Case Study Based on Archival Evidence.”](https://doi.org/10.1017/S0003598X00090001)
 + Timothy Webb. “Appropriating the Stones: The ‘Elgin Marbles’ and English National Taste.” In Claming the Stones, Naming the Bones.
 
-> Digital methods practice: [Imageplot](http://lab.softwarestudies.com/p/imageplot.html)
+> Digital methods practice: [Imageplot](http://lab.softwarestudies.com/p/imageplot.html).
 
 **SHANNON LECTURE** Nov 9 1-2.30, DT2017
 
